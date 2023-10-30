@@ -1,0 +1,31 @@
+#texte1{
+    margin: 0px;
+    padding: 20px;
+    border: solid green;
+    background-color: grey;
+    height: 100px;
+}
+
+#texte2{
+
+    margin: 20px 5px 20px 5px;
+    padding: 1,2em;
+    border: solid green;
+    background-color: grey;
+    width: 50%;
+}
+
+#texte3{
+
+    margin: auto;
+    padding: -30px;
+    border: solid green;
+    background-color: grey;
+    height: 200px;
+    width: 300px;
+}
+
+body{
+    background-color: blueviolet;
+    margin: 0px 0px 0px 0px;
+}
